@@ -26,5 +26,4 @@ I did my bachelor’s degree in Computer Science and Engineering from University
 
 “The other tabs represent my work. Please check them out!”
 
-
 LinkedIn : https://www.linkedin.com/in/lijo-jacob-852362a4/ 
