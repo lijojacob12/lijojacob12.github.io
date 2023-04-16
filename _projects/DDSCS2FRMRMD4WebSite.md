@@ -31,7 +31,9 @@ div.relative {
 }
 </style>
 
-<h3><div class="relative"><a href="https://lijojacob12.shinyapps.io/CaseStudy2Rshiny/">Check out Employee Data Analysis using Shiny App </a></div></h3>
+<h3><div class="relative"><a href="https://lijojacob12.shinyapps.io/CaseStudy2Rshiny/">Check out Employee Data Analysis using Shiny App! </a></div></h3>
+
+<h3><div class="relative"><a href="https://www.youtube.com/watch?v=7PkJSphFBtc">Check out Employee Data Analysis Presentation on YouTube! </a></div></h3>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
