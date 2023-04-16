@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Employee Data Analysis
+title: DS Case Study 2 :Employee Data Analysis
 description: Doing Data Science Case Study 2
 img: assets/img/Employee-Attrition.png
 importance: 1
@@ -22,11 +22,9 @@ category: work
 
 <meta name="date" content="2023-04-14" />
 
-<title>DDS Case Study 2 : Employee Data Analysis</title>
 <style>
 div.relative {
   position: relative;
-  left: 300px;
 }
 </style>
 
