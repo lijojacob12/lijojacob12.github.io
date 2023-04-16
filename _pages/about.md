@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -24,6 +24,6 @@ I am a Sr. Data Engineer at Amdocs in Dallas-Fort Worth Area, Texas. I am provid
 
 I did my bachelor’s degree in Computer Science and Engineering from University of Kerala, India.
 
-“The other tabs represent my work. Please check them out!”
+“The 'projects' tab represent my work. Please check them out!”
 
 LinkedIn : https://www.linkedin.com/in/lijo-jacob-852362a4/ 
