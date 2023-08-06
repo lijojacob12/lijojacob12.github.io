@@ -2,7 +2,7 @@
 layout: page
 title: Housing Price Prediction Project
 description: a project with no image
-img:assets/img/Housing.png
+img: assets/img/Housing.png
 importance: 1
 category: work
 ---
